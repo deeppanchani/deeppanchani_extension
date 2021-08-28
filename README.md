@@ -55,3 +55,13 @@ Download the extension from <a href="https://github.com/deeppanchani/deeppanchan
 </p>
 
 ## About Me
+
+Hey I am Deep Panchani. Computer Science and Engineering student from Indian Institute of Information Technology, Nagpur. 
+
+### Connect with me over:
+[LinkedIn](https://www.linkedin.com/in/deep-panchani-7805861b5/)
+[Twitter](https://twitter.com/deeppanchani21)
+[GitHub](https://github.com/deeppanchani)
+[Instagram](https://www.instagram.com/deepanchani/)
+
+_let me tell you somthing, I added this social links by copying them from my extension._
