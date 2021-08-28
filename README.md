@@ -8,19 +8,23 @@ So I came up with an idea to make a chrome extension which has all the links in 
 ## Sneak Peek
 
 <p align="center">
-<img src="extra/home_page.png"><br>
-Main Page
-<img src="extra/hover_effect.png"><br>
-Hover Effect
+    <img src="extra/home_page.png"><br>
+    Main Page<br>
+    <img src="extra/hover_effect.png"><br>
+    Hover Effect<br>
 </p>
 
 ## How to Download and Install
 
-<p align="center">
-<img src="extra/html.png" width="120px">
-<img src="extra/css.png" width="180px">
-<img src="extra/js.png" width="120px">
-</p>
+
 
 ## Built With
+
+<p align="center">
+    <img src="extra/html.png" width="120px">
+    <img src="extra/css.png" width="180px">
+    <img src="extra/js.png" width="120px">
+</p>
+
 ## About Me
+
