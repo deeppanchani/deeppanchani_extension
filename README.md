@@ -18,7 +18,7 @@ So I came up with an idea to make a chrome extension which has all the links in 
 
 ## How to Download and Install
 
-Download the extension from [here]().
+Download the extension from <a href="https://github.com/deeppanchani/deeppanchani_extension/blob/main/deeppanchani%20links.zip" target="_blank" />here</a>.
 
 ## Built With
 
