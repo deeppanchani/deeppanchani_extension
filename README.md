@@ -8,9 +8,9 @@ So I came up with an idea to make a chrome extension which has all the links in 
 ## Sneak Peek
 
 <p align="center">
-<img src="extra/home_page.png">
+<img src="extra/home_page.png"><br>
 Main Page
-<img src="extra/hover_effect.png">
+<img src="extra/hover_effect.png"><br>
 Hover Effect
 </p>
 
