@@ -18,7 +18,33 @@ So I came up with an idea to make a chrome extension which has all the links in 
 
 ## How to Download and Install
 
-Download the extension from <a href="https://github.com/deeppanchani/deeppanchani_extension/blob/main/deeppanchani%20links.zip" target="_blank" />here</a>.
+Download the extension from <a href="https://github.com/deeppanchani/deeppanchani_extension/blob/main/deeppanchani%20links.zip" target="_blank">here</a>.
+
+### Setps to Install
+
+1. Unzip the folder.
+2. Save it in a save location. If this folder gets deleted your extension will also get deleted.
+3. Open Chrome. Got to menu option.
+4. Find "More Tools" option. In that you will find an option names "Extensions".
+
+    <img src="extra/1.png">
+
+5. On Opening the Extensions. You will find the following screen.
+    
+    <img src="extra/2.png">
+
+6. Turn On the Developer Mode.
+    
+    <img src="extra/3.png">
+
+7. Select "Load unpacked".
+8. Select the unziped files.
+    
+    <img src="extra/4.png">
+9. Done. You are ready to use the extension.
+    
+    <img src="extra/5.png">
+
 
 ## Built With
 
@@ -29,4 +55,3 @@ Download the extension from <a href="https://github.com/deeppanchani/deeppanchan
 </p>
 
 ## About Me
-
